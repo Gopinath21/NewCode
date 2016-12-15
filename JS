@@ -1,0 +1,5 @@
+https://scotch.io/tutorials/single-page-apps-with-angularjs-routing-and-templating
+
+For more comprehensive knowledge on AngularJS, I found below free courses very helpful.
+https://www.coursera.org/learn/single-page-web-apps-with-angularjs   
+https://www.codeschool.com/courses/shaping-up-with-angular-js
